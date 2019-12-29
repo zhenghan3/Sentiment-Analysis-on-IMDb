@@ -41,7 +41,7 @@ To run the program, navigate to root directory of the project folder with termin
 The process design of the whole program divided into several parts as the chart shown below. 
 
 
-![image](README.assets/process design.jpg)
+![image](README.assets/process%20design.jpg)
 
 ## Functions and Parameters
 
